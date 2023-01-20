@@ -1,6 +1,9 @@
-# Hello there! 👋
-### Here's what you probably need to know about me:
-- French, 15 years old dude 🇫🇷
-- Currently working on multiple Python projects 🐍
-- Learning a bit of JS ☕
-- Inactive on GitHub, creating & uploading new projects only when I have motivation 💤
+# helloo!! ✨
+### some things about me x3
+- french, 15 years old femboy~ 🇫🇷
+- currently working on multiple python projects 🐍
+- inactive on GitHub, creating & uploading new projects only when i have motivation 💤
+- im pansexual!! ❤️
+- heres my pronouns page: https://en.pronouns.page/@waw_
+
+cya! <3
