@@ -1,7 +1,7 @@
 <h1 align="center">hi, im waw ✨</h1>
 <h3 align="center">passionate femboy Python dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ccoldfox&label=profile%20views~&color=d438d6&style=flat" alt="ccoldfox" /> </p>
+[![](https://visitcount.itsvg.in/api?id=CColdFox&icon=8&color=11)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ccoldfox" alt="ccoldfox" /></a> </p>
 
@@ -17,12 +17,12 @@
 
 - ⚡ fun fact: **i get tired really fast of a project**
 
+# 💻 nerd tech things:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+# 📊 stats:
+![](https://github-readme-stats.vercel.app/api?username=CColdFox&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CColdFox&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CColdFox&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ccoldfox&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ccoldfox" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ccoldfox&show_icons=true&theme=tokyonight&locale=en" alt="ccoldfox" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccoldfox&theme=dark" alt="ccoldfox" /></p>
+### ✍️ dev quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
