@@ -11,7 +11,7 @@
 
 - 💬 you can ask me about: **anything, really-**
 
-- 📫 how to reach me: **on discord, but you cant lmao**
+- 📫 how to reach me: **on discord! waw#3429**
 
 - 📄 know about my experiences: [i worked on multiple Discord utility tools, using webhooks and so on.](i worked on multiple Discord utility tools, using webhooks and so on.)
 
