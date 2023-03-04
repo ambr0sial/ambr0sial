@@ -13,7 +13,7 @@
 
 - 📫 how to reach me: **on discord! waw#3429**
 
-- 📄 know about my experiences: [i worked on multiple Discord utility tools, using webhooks and so on.](i worked on multiple Discord utility tools, using webhooks and so on.)
+- 📄 know about my experiences: i worked on multiple Discord utility tools, using webhooks and so on.
 
 - ⚡ fun fact: **i get tired really fast of a project**
 
