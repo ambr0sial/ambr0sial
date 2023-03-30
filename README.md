@@ -1,5 +1,5 @@
 <h1 align="center">hi, im ambr0sial ✨</h1>
-<h3 align="center">passionate femboy Python dev</h3>
+<h3 align="center">passionate Python dev</h3>
 
 [![](https://visitcount.itsvg.in/api?id=ambr0sial&icon=8&color=11)](https://visitcount.itsvg.in)
 
