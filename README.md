@@ -6,7 +6,7 @@
 ### 🛠 coolest projects
 
 * [femboyaccess](https://github.com/ambr0sial/femboyaccess)
-* [unleashedgpt](https://github.com/ambr0sial/unleashedgpt)
+* [nova](https://github.com/ambr0sial/nova)
 
 ![my stats](https://github-readme-stats.vercel.app/api?username=ambr0sial&theme=material-palenight&show_icons=true&disable_animations=false&custom_title=nerdy%20stats%20:3&hide_border=true)
 
