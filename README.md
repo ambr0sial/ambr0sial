@@ -1,6 +1,8 @@
 <h1 align="center">hello, i am ambr0sial ✨</h1>
 <h3 align="center">passionate transfem Python dev!</h3>
 
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=707opg5atjlbur6fll111jxzg&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=dc8add&bar_color_cover=false" /></div>
+
 <p align="center">
   <a href="https://visitcount.itsvg.in/api?id=ambr0sial&icon=8&color=11"><img src="https://visitcount.itsvg.in/api?id=ambr0sial&icon=8&color=11" alt="visitor count" width="200"></a>
 
