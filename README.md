@@ -1,5 +1,6 @@
 <h1 align="center">hello, i am ambr0sial ✨</h1>
 <h3 align="center">passionate transfem Python dev!</h3>
+<p align="center" style="font-size: 0.5em;"><sub>🎶 je suis fan de MNG <3</sub></p>
 
 <p align="center">
   <a href="https://github.com/ambr0sial/femboyaccess">femboyaccess</a> |
