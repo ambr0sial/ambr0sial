@@ -22,7 +22,7 @@
 
 <h3 align="center">⚙️ tech stack ⚙️</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,nodejs,alpinejs,c,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,nodejs,alpinejs,c,bash,powershell,sublime" />
 </p>
 
 ---
